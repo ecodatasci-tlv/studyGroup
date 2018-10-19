@@ -880,14 +880,14 @@ img::-moz-selection {
   border-top: 1px solid #CCCCCC;
 }
 
-#.eventSubinstructions{
-#  margin-bottom: 1em !important;
-#}
+/*.eventSubinstructions{
+*  margin-bottom: 1em !important;
+*}
 
-#.eventSuggest{
-#  margin-top: 3em;
-#}
-
+*.eventSuggest{
+*  margin-top: 3em;
+*}
+*/
 figcaption{
   margin-top:1em;
 }
