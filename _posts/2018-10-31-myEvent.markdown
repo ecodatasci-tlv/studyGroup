@@ -1,0 +1,10 @@
+---
+title: Data wrangling with tidyverse
+text: Irene and Hazi will teach us cool tricks to configure our data
+location: Your Location
+link: 
+date: 2018-10-31
+startTime: '14:30'
+endTime: '16:00'
+
+---
