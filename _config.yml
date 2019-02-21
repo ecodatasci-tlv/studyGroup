@@ -4,7 +4,7 @@
 #Step 1: give your study group a name and a short description,
 #and choose a language from the options in the _data directory:
 title: EcoDataSci-TLV
-description: "A fun way to learn R in an ecological framework."
+description: "A fun way to learn R among ecologists and environmental scientists."
 language: en
 
 #Step 2: press the green 'Commit Changes' button at the bottom of this page.
@@ -20,7 +20,7 @@ language: en
 
 titleBackground: "https://s3-us-west-2.amazonaws.com/webmaker-kits/learning%402x.jpg"
 headlineSmall: "Welcome to EcoDataSci-TLV"
-headlineMain: "A place to learn new things in R"
+headlineMain: "Where ecology meets data science"
 
 # Setup Google Calendar
 # Usage:
@@ -29,8 +29,7 @@ headlineMain: "A place to learn new things in R"
 # 3. set calendar_on: True.
 
 calendar_on: True
-calendar_embed_url: "https://www.google.com/calendar/embed?src=USER@gmail.com"
-
+calendar_embed_url: "https://calendar.google.com/calendar/embed?src=h1854vp6ds8ejv3g96dlom7dn4%40group.calendar.google.com&ctz=Asia%2FJerusalem"
 
 #========================================
 # No touching anything below this line :)
